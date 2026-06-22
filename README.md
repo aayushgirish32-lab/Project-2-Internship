@@ -333,3 +333,186 @@ Project Status:
 ✅ Week 1 Completed
 ✅ Week 2 Completed
 ✅ Week 3 Completed
+
+# Week 4 — Dashboard Development & Business Reporting
+
+# Objective
+
+The objective of Week 4 was to transform analytical findings and predictive outputs into an interactive business dashboard and generate actionable insights for decision-making.
+
+This phase focused on converting technical analysis into a business-friendly reporting experience.
+
+---
+
+# Tools & Technologies
+
+* Power BI
+* Python
+* Pandas
+* Jupyter Notebook
+* Scikit-Learn
+* Git & GitHub
+
+---
+
+# Dashboard Objective
+
+The dashboard was designed to provide a visual summary of:
+
+* Booking performance
+* Cancellation trends
+* Pricing behavior
+* Customer segments
+* Business KPIs
+
+The dashboard enables stakeholders to monitor booking activities and identify business opportunities.
+
+---
+
+# Data Source
+
+Input Dataset:
+
+```text
+clean_hotel.csv
+```
+
+Source:
+
+Generated during Week 1 cleaning and used throughout analytical stages.
+
+---
+
+# Dashboard Components
+
+## KPI Section
+
+Created KPI cards for:
+
+### Total Bookings
+
+Displays total booking volume.
+
+### Cancellation Rate
+
+Shows percentage of cancelled bookings.
+
+### Average Daily Rate (ADR)
+
+Displays average booking price.
+
+### Average Stay
+
+Shows average customer stay duration.
+
+---
+
+## Dashboard Visualizations
+
+### Monthly Booking Trend
+
+Purpose:
+Identify seasonal demand and booking fluctuations.
+
+---
+
+### Cancellation Distribution
+
+Purpose:
+Analyze cancellation behavior.
+
+---
+
+### Market Segment Analysis
+
+Purpose:
+Understand contribution of customer segments.
+
+---
+
+### Average ADR by Customer Type
+
+Purpose:
+Compare pricing trends among customer groups.
+
+---
+
+## Interactive Filters
+
+Implemented slicers for:
+
+* Hotel Type
+* Country
+* Customer Type
+* Booking Month
+* Market Segment
+
+---
+
+# Business Insights Generated
+
+* Booking demand varied across periods.
+* Cancellation trends influenced business performance.
+* Customer segments showed different booking behaviors.
+* Pricing variation revealed revenue opportunities.
+* Dashboard improved monitoring and decision support.
+
+---
+
+# Dashboard Deliverables
+
+Generated:
+
+```text
+dashboard/
+hospitality_dashboard.pbix
+```
+
+Screenshots saved:
+
+```text
+screenshots/week4/
+```
+
+---
+
+# Business Recommendations
+
+* Reduce cancellation through targeted retention strategies.
+* Optimize pricing during high-demand periods.
+* Improve customer engagement for selected segments.
+* Monitor booking behavior continuously.
+
+---
+
+# Challenges Faced
+
+* Power BI dashboard alignment
+* Data relationship setup
+* Visualization formatting
+* Dashboard optimization
+
+---
+
+# Learning Outcomes
+
+* Dashboard Design
+* KPI Development
+* Business Reporting
+* Interactive Filtering
+* Data Storytelling
+* Business Intelligence
+
+---
+
+# Conclusion
+
+Week 4 successfully transformed analytical outputs into a professional dashboard and reporting solution.
+
+The dashboard converted raw hospitality booking information into actionable business insights for decision-making.
+
+Project Status:
+
+✅ Dashboard Completed
+✅ Business Reporting Completed
+✅ Week 4 Completed
