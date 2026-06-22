@@ -127,6 +127,9 @@ Average ADR:
 ≈ 106.34
 
 ---
+Project Status:
+
+✅ Week 1 Completed
 
 # WEEK 2 — Exploratory Data Analysis (EDA)
 
@@ -193,6 +196,10 @@ Saved inside:
 screenshots/week2/
 
 ---
+
+Project Status:
+
+✅ Week 2 Completed
 
 # WEEK 3 — Predictive Analytics (Cancellation Prediction)
 
@@ -314,8 +321,6 @@ screenshots/week3/
 
 # Conclusion
 
-Weeks 1–3 successfully transformed hospitality booking data into a structured analytics workflow.
-
 The project progressed from:
 
 Raw Data
@@ -330,8 +335,6 @@ This prepared the project for dashboarding and final business reporting.
 
 Project Status:
 
-✅ Week 1 Completed
-✅ Week 2 Completed
 ✅ Week 3 Completed
 
 # Week 4 — Dashboard Development & Business Reporting
