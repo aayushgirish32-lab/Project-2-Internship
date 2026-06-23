@@ -1,10 +1,10 @@
-# Hospitality Booking Analytics Project
+# Hotel Booking Analytics Project
 
 ---
 
 # Project Overview
 
-The Hospitality Booking Analytics Project focuses on transforming raw hotel booking data into business insights through cleaning, exploratory analysis, and predictive analytics.
+The Hotel Booking Analytics Project focuses on transforming raw hotel booking data into business insights through cleaning, exploratory analysis, and predictive analytics.
 
 The project aims to analyze customer booking behavior, pricing trends, booking cancellations, and generate business intelligence for decision-making.
 
